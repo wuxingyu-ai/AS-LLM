@@ -6,7 +6,7 @@ AS-LLM (Algorithm Selection model based on Large Language Models) is a novel app
 Before using the code, it is important to install the necessary libraries commonly used in the field of machine learning, such as numpy, sklearn, torch, scipy, pandas, and others. Additionally, please make sure to install the aslib_scenario library, which provides the testing scenarios related to AS-LLM. 
 
 ## Citation
-If you are using Deep-ELA in any capacity, please use the following bibtex:
+If you are using AS-LLM in any capacity, please use the following bibtex:
 ```
 @inproceedings{wu2023llm,
   title={Large Language Model-Enhanced Algorithm Selection: Towards Comprehensive Algorithm Representation},
